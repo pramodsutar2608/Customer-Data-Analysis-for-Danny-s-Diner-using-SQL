@@ -7,6 +7,7 @@ operations.
 menu preferences.
 • The project aimed to provide actionable insights to enhance customer experiences and assess the potential expansion 
 of the loyalty program.
+
 Project Outcomes:
 • Successfully addressed ten specific case study questions, each with a dedicated SQL solution.
 • Delivered actionable insights that empowered Danny to make data-driven decisions, resulting in improved business 
